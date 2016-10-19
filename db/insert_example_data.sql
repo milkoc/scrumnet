@@ -55,8 +55,8 @@ INSERT INTO sprints (id, project_id, name, start_date, end_date, report_weekdays
 INSERT INTO sprints_users (id, sprint_id, user_id)
     VALUES (1,1,1);
 INSERT INTO sprints_users (id, sprint_id, user_id)
-    VALUES (1,1,2);
+    VALUES (2,1,2);
 INSERT INTO sprints_users (id, sprint_id, user_id)
-    VALUES (1,2,2);
+    VALUES (3,2,2);
 INSERT INTO sprints_users (id, sprint_id, user_id)
-    VALUES (1,3,3);
+    VALUES (4,3,3);
